@@ -17,9 +17,9 @@
 <img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Dart" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/dart/dart-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" style="padding-right:10px;" />
 
 
 <br />
