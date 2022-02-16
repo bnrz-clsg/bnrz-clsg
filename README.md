@@ -15,11 +15,11 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Android Studio" width="26px" src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/flutter/flutter-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Dart" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/dart/dart-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Dart" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/dart/dart-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 
 
 <br />
