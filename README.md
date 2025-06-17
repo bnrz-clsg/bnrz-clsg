@@ -1,4 +1,4 @@
-# Hi there, I'm Ebenezer - aka JAK👋 
+# Hi there, I'm Ebenezer - Jakk
 
 
 ## I'm a Mobile App Developer, UI & UX App Designer, Graphic Designer!!
